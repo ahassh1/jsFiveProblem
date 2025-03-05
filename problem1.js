@@ -10,7 +10,7 @@ function calculateTax( income, expense){
     let tax = taxableAmount * .2;
     return tax;
 }
-const result =calculateTax("aloa", 3000)
+const result =calculateTax(20000, 3000)
 console.log(result)
 
 
