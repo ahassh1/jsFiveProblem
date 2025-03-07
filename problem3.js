@@ -17,6 +17,5 @@ function checkDigitsInName(name){
    }
    return containsDigit;
 }
-  
 const result = checkDigitsInName('polash123');
 console.log(result)
